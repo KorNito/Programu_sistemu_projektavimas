@@ -1,1 +1,1 @@
-# Programu_sistemu_projektavimas TypeRacer programa
+TypeRacer game for software systems design university course
